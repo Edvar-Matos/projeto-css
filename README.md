@@ -14,3 +14,8 @@
 <br>
 <br>
 
+<h2>Aqui está a imagem da responsividade:</h2>
+<br>
+
+<img src="https://github.com/Edvar-Matos/projeto-css/blob/master/assets/mobile.png?raw=true"/>
+
